@@ -7,7 +7,8 @@
 > [!WARNING]  
 > **this is warning**
 
-I write stuff only for fun.
+I write stuff only for fun.  
+https://LTurret.github.io
 
 ## Gists
 - [Necessity twitter ux script](https://gist.github.com/LTurret/ad134a992366bc6bf95f489f611580d1)

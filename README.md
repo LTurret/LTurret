@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="150" src="https://i.imgur.com/SNCEo5j.png"  />
+  <img height="150" src="https://i.imgur.com/RbxHch0.png"  />
 </div>
 
 ###
 
-<h1 align="center">🗼</h1>
+<h1 align="center">✨</h1>
 
 ###
 
